@@ -1,4 +1,4 @@
 mysqlpdo
 ========
 
-MySql PDO Class Wrapper
+PHP MySql PDO Wrapper Class
